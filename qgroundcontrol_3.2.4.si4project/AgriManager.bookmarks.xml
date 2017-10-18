@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceInsightBookmarks
+	AppVer="4.00.0084"
+	AppVerMinReader="4.00.0009"
+	>
+	<Bookmarks>
+		<Mark
+			Name="3888206615850090017102"
+			Comment="G201710091286添加航点模式 注释"
+			File="AgriManager\src\PlanView\PlanView.qml"
+			Line="343"
+			Column="70"
+			LineOffset="0"
+			/>
+		<Mark
+			Name="2767706401647021017102"
+			Comment="agri based  ui"
+			File="AgriManager\src\QmlControls\QmlTest.qml"
+			Line="539"
+			Column="11"
+			Symbol="Rectangle"
+			SymbolInstance="0"
+			SymbolType="Variable"
+			LineOffset="520"
+			/>
+		<Mark
+			Name="5167962451624121017102"
+			Comment="添加航点，协议包典型应用appendSectionItem"
+			File="AgriManager\src\MissionManager\SpeedSection.cc"
+			Line="90"
+			Column="19"
+			Symbol="SpeedSection.appendSectionItems"
+			SymbolInstance="0"
+			SymbolType="Member Function"
+			LineOffset="0"
+			/>
+		<Mark
+			Name="0408976593816031017102"
+			Comment="cameraTrigger_任务设置"
+			File="AgriManager\src\MissionManager\SurveyMissionItem.cc"
+			Line="1171"
+			Column="31"
+			Symbol="SurveyMissionItem._appendWaypointToMission"
+			SymbolInstance="2"
+			SymbolType="Member Function"
+			LineOffset="37"
+			/>
+		<Mark
+			Name="0570359403546031017102"
+			Comment="转弯处理_hasTurnaround"
+			File="AgriManager\src\MissionManager\SurveyMissionItem.cc"
+			Line="1252"
+			Column="12"
+			Symbol="SurveyMissionItem._appendMissionItemsWorker"
+			SymbolInstance="2"
+			SymbolType="Member Function"
+			LineOffset="23"
+			/>
+		<Mark
+			Name="0761280502717031017102"
+			Comment="改变航向MAV_CMD_NAV_WAYPOINT"
+			File="AgriManager\src\MissionManager\SurveyMissionItem.cc"
+			Line="1145"
+			Column="40"
+			Symbol="SurveyMissionItem._appendWaypointToMission"
+			SymbolInstance="2"
+			SymbolType="Member Function"
+			LineOffset="11"
+			/>
+	</Bookmarks>
+</SourceInsightBookmarks>

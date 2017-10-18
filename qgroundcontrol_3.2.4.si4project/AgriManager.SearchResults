@@ -1,0 +1,7 @@
+---- AgriTrigger_TOCamera Matches (6 in 3 files) ----
+MissionItem.h (src\MissionManager) line 39 : #define AgriTrigger_TOCamera
+SurveyMissionItem.cc (src\MissionManager) line 1131 : #ifdef AgriTrigger_TOCamera
+SurveyMissionItem::_appendWaypointToMission in SurveyMissionItem.cc (src\MissionManager) : #ifdef AgriTrigger_TOCamera
+SurveyMissionItem::_appendMissionItemsWorker in SurveyMissionItem.cc (src\MissionManager) : #ifdef AgriTrigger_TOCamera
+SurveyMissionItem::_appendMissionItemsWorker in SurveyMissionItem.cc (src\MissionManager) : #ifdef AgriTrigger_TOCamera
+SurveyMissionItem.h (src\MissionManager) line 190 : #ifdef AgriTrigger_TOCamera
