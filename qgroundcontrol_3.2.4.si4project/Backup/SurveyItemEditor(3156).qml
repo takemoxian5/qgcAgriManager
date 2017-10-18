@@ -468,7 +468,7 @@ Rectangle {
                       //  visible:                false//_vehicle.fixedWing
 
                         onClicked: {
-                            windRosePie.angle = Number(angleText.text)
+             //               windRosePie.angle = Number(angleText.text)
                             var cords = windRoseButton.mapToItem(_root, 0, 0)
                             windRosePie.popup(cords.x + windRoseButton.width / 2, cords.y + windRoseButton.height / 2);
                         }
@@ -739,12 +739,12 @@ Rectangle {
                         //                        visible: 			   _vehicle.fixedWing
 
                         onClicked: {
-                            windRosePie.angle = Number(tempangleText.text)
+                            windRosePie.angle = Number(agriAngleText.text)
 
                             //                                                        var cords =QGroundControl.flightMapPosition// windRoseButton.mapToItem(_root, 0, 0)
                             //                                                        windRosePie.popup(cords.x , cords.y )//+ windRoseButton.height / 2)+ windRoseButton.width / 2
-                            var cords = agriwindRoseButton.mapToItem(_root, 0, 0)
-                            windRosePie.popup(cords.x + agriwindRoseButton.width / 2, cords.y + agriwindRoseButton.height / 2)
+                            var cords = windRoseButton.mapToItem(_root, 0, 0)
+                            windRosePie.popup(cords.x + windRoseButton.width / 2, cords.y + windRoseButton.height / 2)
                         }
                     }
                 }
